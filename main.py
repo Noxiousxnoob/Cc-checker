@@ -12,7 +12,7 @@ from colorama import Fore
 allowed_ids = [5154912723, 6498551799]
 
 sto = {"stop": True}
-token = "7445483279:AAHyIT1lP0WvZX6P6ymypKjwjdcoidvP3nQ"
+token = "7183404016:AAFFwKmOHUJ_Xytnz_BSuw4s4e3h1gq6ooo"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 
@@ -137,7 +137,7 @@ def main(message):
 [↯] 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {do}
 ──────────────────
 
-[↯] 𝗕𝗢𝗧 𝗕𝗬: ZEXXY.REG
+[↯] 𝗕𝗢𝗧 𝗕𝗬: @NoxiousXpro
 [↯] 𝗣𝗥𝗢𝗫𝗬 : 𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]
 ──────────────────
 '''
@@ -157,7 +157,7 @@ def main(message):
 [↯] 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {do}
 ──────────────────
 
-[↯] 𝗕𝗢𝗧 𝗕𝗬: ZEXXY.REG
+[↯] 𝗕𝗢𝗧 𝗕𝗬: @NoxiousXpro
 [↯] 𝗣𝗥𝗢𝗫𝗬 : 𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]
 ──────────────────''')
         elif "Status code avs: Gateway Rejected: avs" in last or "Nice! New payment method added:" in last or "Status code 81724: Duplicate card exists in the vault." in last:
@@ -173,7 +173,7 @@ def main(message):
 <a >[↯]</a> 𝗕𝗮𝗻𝗸 ↯ <code>{bank}</code>
 <a >[↯]</a> 𝗖𝗼𝘂𝗻𝘁𝗿𝘆 ↯ <code>{do}</code>
 <a >━━━━━━━━━━━━━━━━━━</a>
-<a >[↯]</a> 𝗕𝗢𝗧 𝗕𝗬 ↯ <a href='t.me/BinsHubX'>ZEXXY.REG</a>
+<a >[↯]</a> 𝗕𝗢𝗧 𝗕𝗬 ↯ <a href='t.me/NoxBots'>NoxBots</a>
 <a >[↯]</a> 𝗣𝗥𝗢𝗫𝗬  ↯ <code>𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]</code>
 <a >━━━━━━━━━━━━━━━━━━</a>''')
           print(Fore.YELLOW + cc + "->" + Fore.GREEN + last)
@@ -190,7 +190,7 @@ def main(message):
 [↯] 𝗕𝗮𝗻𝗸: {bank}
 [↯] 𝗖𝗼𝘂𝗻𝘁𝗿𝘆: {do}
 ──────────────────
-[↯] 𝗕𝗢𝗧 𝗕𝗬: ZEXXY.REG
+[↯] 𝗕𝗢𝗧 𝗕𝗬: @NoxiousXpro
 [↯] 𝗣𝗥𝗢𝗫𝗬 : 𝗟𝗶𝘃𝗲 [1XX.XX.XX 🟢]
 ──────────────────''')
         else:

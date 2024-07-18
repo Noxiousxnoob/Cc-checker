@@ -12,7 +12,7 @@ from colorama import Fore
 allowed_ids = [5154912723, 6498551799]
 
 sto = {"stop": True}
-token = "7401069417:AAFD-Rit68hnvckpXkw5DQY_ptGZDN6x8Rc"
+token = "7445483279:AAHyIT1lP0WvZX6P6ymypKjwjdcoidvP3nQ"
 bot = telebot.TeleBot(token, parse_mode="HTML")
 
 

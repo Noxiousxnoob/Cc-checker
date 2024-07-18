@@ -36,8 +36,8 @@ def Tele(cx):
 }
 
     data = {
-    'username': 'omyadav7777',
-    'password': 'nxtvenom1122@',
+    'username': 'noxiousxxpro',
+    'password': 'vikram@123',
     'woocommerce-login-nonce': login,
     '_wp_http_referer': '/my-account/',
     'login': 'Log in',
